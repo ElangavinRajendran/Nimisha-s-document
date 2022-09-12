@@ -1,0 +1,13 @@
+<html><body><br>
+<b><u>Employee Wise Asset Details</u></b><br><br><br>
+Asset details For:   Nimisha  Rajiah<br><br>
+<br><table border='1' cellpadding='1' cellspacing='1'>
+<tr><th>Asset ID</th><th>Asset Type</th><th>Project No.</th><th>Project Name</th><th>Location Description</th><th>SBWS</th><th>SBWS Start Date</th><th>SBWS End Date</th></tr>
+</tr>
+<tr><td>01HW1288644</td><td>Thin Client CPU</td><td>20259734</td><td>SAA - Ecom - Chennai</td><td>TCS - Chennai/Siruseri-Chennai</td><td>No</td><td></td><td></td></tr>
+</tr>
+</table>
+<br><table border='0'>
+<tr>
+<td><b>TCS Internal</b></td></tr></table>
+</html></body>
